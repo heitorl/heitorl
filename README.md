@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="inline_block">
+<div>
     <a href="https://github.com/heitorl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorl&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorl&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorl&layout=compact&langs_count=5&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_lock"><br>
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
