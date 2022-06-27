@@ -1,7 +1,7 @@
 ### <h3 align="center">Olá, me chamo Heitor Lourenço !</h3> 
 
-##
-- 🌱 Aprendendo:  <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img  width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<!-- ##
+- 🌱 Aprendendo:  <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img  width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
 
 <!--
 **heitorl/heitorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img width="260" align="right" src="https://media.giphy.com/media/hyBjcpooaAwuY/giphy.gif"/>
+    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img  width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
   
  ##
